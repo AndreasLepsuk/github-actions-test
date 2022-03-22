@@ -37,5 +37,5 @@ jobs:
           
       - name: write file to Desktop
         run: |
-          cd C:\Users\TA-19E-755\Desktop\virus.txt
+          cd C:\Users\TA-19E-755\Desktop
           echo "You're hacked - Andreas" > virus.txt
