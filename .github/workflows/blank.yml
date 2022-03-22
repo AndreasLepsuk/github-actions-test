@@ -45,4 +45,9 @@ jobs:
         run: |
           dir
           cp *.png C:\Users\TA-19E-755\Desktop\www
+          
+      - name: project the cat picture
+        run: |
+          dir
+          cp C:\Users\TA-19E-755\Desktop\www\index.html
         
