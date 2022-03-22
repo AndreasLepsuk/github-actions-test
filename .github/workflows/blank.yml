@@ -44,5 +44,5 @@ jobs:
       - name: Copy cat picture
         run: |
           dir
-          cp cat.png C:\Users\TA-19E-755\Desktop\www\cat.png
+          cp *.png C:\Users\TA-19E-755\Desktop\www
         
