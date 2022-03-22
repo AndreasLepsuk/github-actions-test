@@ -38,4 +38,4 @@ jobs:
       - name: write file to Desktop
         run: |
           cd C:\Users\TA-19E-755\Desktop
-          echo "You're hacked - Andreas" > virus.txt
+          echo "You're hacked - Andreas"  C:\Users\TA-19E-755\Desktop\actions-runner\cat.png> virus.txt
